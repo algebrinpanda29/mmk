@@ -1,0 +1,42 @@
+
+<html>
+
+<title>panda's resume</title> 
+<h2 marquee style="border:white 10px" direction="right" align="center"><font face="comic sans MS"><font color="teal"><font size="7">Welcome to my Resume</font></font></font></font></h2>
+<body background="kkk.jpg"jpg"/>
+<h2 align="center" direction="left"><font face="Gloucester MT Extra Condensed"><font color="blue">Personal Background</font></font></font></h2>
+<h4><center><font color="pink"> Name: Mohamed Algebrin R.Panda</font></h4>
+<center><img src="panda.jpg" width= "300" height= "300">
+<h4><center><font color="pink">N-name: Jeb</font></h4>
+<h4><center><font color="pink">Age:16years old</font></h4>
+<h4><center><font color="pink"><font color="pink">Gender: Male</font></h4>
+<h4><center><font color="pink">Civil Status: Single</font></h4>
+<h4><center><font color="pink">Birthday: November29 2000</font></h4>
+<h4><center><font color="pink">Birthplace: RH10 Pansacala Cotabato City</font></h4>
+<h4><center><font color="pink">Mother's name: Noria R. Panda</font></h4>
+<h4><center><font color="pink">Father's name: Hader M. Panda</font></h4>
+<h4><center><font color="pink">sibling: Bai Sheham R. Panda</font></h4>
+
+<h2 align="center"><font face=" Gloucester MT Extra Condensed"><font color="blue">Educational Background</font></font></font></h2>
+<h4 align="center"> <font color="pink">Kinder Garten: Saint Francis High School</font></h4>
+<h4 align="center"><font color="pink"> Elementary: Nuro Upi Maguindanao</font></h4>
+<h4 align="center"> <font color="pink">Junior High School: Notre Dame of Upi</font></h4>
+<h4 align="center"><font color="pink"> Senior High School: Notre Dame of Rvm</font></h4>
+<h2 marquee style="border:whitesolid 5px" align="center"><font face=" Gloucester MT Extra Condensed"><font color="blue">My Goal</font></font></font></h2>
+<h4><center><font color="pink">First of all I want to finish my study and to achieve my dreams to be a pulis someday and also to help my parents to give them a good life that like what give to me, so I want to finish my study and to find a better job</gont.</h4>
+
+<h2 align="center"><font face=" Gloucester MT Extra Condensed"><font color="blue">My Skills</font></font></font></h2>
+<h4><center><font color="pink">Driving</font></h4>
+<h4><center><font color="pink">Singing</font></h4>
+<h4><center><font color="pink">playing guitar</font></h4>
+
+<h2 align="center"><font face=" Gloucester MT Extra Condensed"><font color="blue">My Hobbies</font></font></font></h2>
+<h4><center><font color="pink">Playing Basketball</h4>
+<h4><center><font color="pink">Watching Movies</h4>
+<h4><center><font color="pink">Exploring everywhere with my friends</h4>
+<center><img src="ewan.jpg" width="230" height='230"></center>
+<h2 align="center"><font face=" Gloucester MT Extra Condensed"><font color="blue">My Motto</font></font></font></h2>
+<center><p><font color="pink">If others can do, why can I.</font></center></p>
+
+</body>
+</html>
